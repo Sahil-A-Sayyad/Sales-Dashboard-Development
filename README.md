@@ -32,13 +32,13 @@ Developed an interactive Power BI sales dashboard to deliver actionable insights
 - Highlighted monthly sales trends for short‑term evaluation
 
 # Screenshot 
-Dealer View : ![Dashboard Preview]( https://github.com/Sahil-A-Sayyad/Sales-Dashboard-Development/blob/main/Screenshot%202025-12-13%20170140.png )
-Monthly View : ![Dashboard Preview](https://github.com/Sahil-A-Sayyad/Sales-Dashboard-Development/blob/main/Screenshot%202025-12-13%20170208.png)
-Division View :![Dashboard Preview](https://github.com/Sahil-A-Sayyad/Sales-Dashboard-Development/blob/main/Screenshot%202025-12-13%20170238.png)
-Overview : ![Dashboard Preview](https://github.com/Sahil-A-Sayyad/Sales-Dashboard-Development/blob/main/Screenshot%202025-12-13%20170304.png)
+Dealer View : ![Dashboard Preview](https://github.com/Sahil-A-Sayyad/Sales-Dashboard-Development/blob/main/Screenshot%202025-12-31%20100644.png)
+Monthly View : ![Dashboard Preview](https://github.com/Sahil-A-Sayyad/Sales-Dashboard-Development/blob/main/Screenshot%202025-12-31%20100719.png)
+Division View :![Dashboard Preview](https://github.com/Sahil-A-Sayyad/Sales-Dashboard-Development/blob/main/Screenshot%202025-12-31%20100602.png)
+Overview : ![Dashboard Preview](https://github.com/Sahil-A-Sayyad/Sales-Dashboard-Development/blob/main/Screenshot%202025-12-31%20100526.png)
 
 # Learning Outcomes
 - Practical application of Power BI storytelling techniques
 - Hands‑on experience with DAX time intelligence functions
 - Ability to design business‑ready dashboards for decision‑making
-
+  
